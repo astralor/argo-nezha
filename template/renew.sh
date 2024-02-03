@@ -2,7 +2,7 @@
 
 # renew.sh 用于在线同步最新的 backup.sh 和 restore.sh 脚本
 
-GH_PROXY=https://mirror.ghproxy.com/
+GH_PROXY=
 WORK_DIR=
 TEMP_DIR=
 
