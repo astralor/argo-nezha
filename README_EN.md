@@ -167,7 +167,7 @@ services.
 
 ## VPS Deployment Method 2 --- hosts
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen2/Argo-Nezha-Service-Container/main/dashboard.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/astralor/argo-nezha/main/dashboard.sh)
 ```
 
 
